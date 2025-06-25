@@ -62,16 +62,3 @@ We automate a **loan approval process** using historical customer data, includin
 - Tooling: `scikit-learn`, `AIF360`, `Fairlearn`, `Seaborn`, `Pandas`
 
 ---
-
-## 🚀 How to Run
-
-1. Clone and open the notebook:
-   ```bash
-   git clone <your-repo-url>
-   cd <project-folder>
-   ```
-2. Install required libraries:
-   ```bash
-   pip install aif360 fairlearn BlackBoxAuditing
-   ```
-3. Run cells sequentially via Jupyter or Google Colab
