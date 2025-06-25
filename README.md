@@ -1,4 +1,4 @@
-# 📊 Detect & Mitigate Bias in Machine Learning Models
+# 📊 Bias-Detection-Mitigation-in-Loan-Eligibility
 
 ## 🔍 Overview
 
